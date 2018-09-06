@@ -1,0 +1,14 @@
+Keras==2.2.0
+Jinja2==2.10
+lime==0.1.1.32
+pandas==0.23.0
+pdfkit==0.6.1
+plotly==3.1.1
+pydbgen==1.0.5
+scikit-learn==0.19.2
+scikit-plot==0.3.5
+SQLAlchemy==1.2.7
+sqlalchemy-teradata==0.1.0.dev0
+teradata==15.10.0.21
+tqdm==4.24.0
+tensorflow==1.9.0
